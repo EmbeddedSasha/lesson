@@ -1,2 +1,2 @@
 include "bool.h"
-int a;
+int a, b;
